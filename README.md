@@ -16,3 +16,7 @@
  **SMBIOS**: iMacPro1,1 (iMac Pro 2017)
  
 ![Bildschirmfoto 2021-04-28 um 11 58 05](https://user-images.githubusercontent.com/59840959/116385488-20085d80-a819-11eb-87e4-b76fdec64cd1.png)
+
+## Working
+
+## Not working)

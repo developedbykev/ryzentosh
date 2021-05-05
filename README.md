@@ -11,7 +11,7 @@
  | WiFi            | TP-Link Archer T2U USB  |
  | OS Disk (SATA)  | Kingston A400 240GB SSD |
  
- **macOS Version**: 11.3 (20E232)    
+ **macOS Version**: 11.3.1 (20E241)    
  **OpenCore Version**: 0.6.8  
  **SMBIOS**: iMacPro1,1 (iMac Pro 2017)
  

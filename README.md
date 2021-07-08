@@ -11,12 +11,19 @@
  | WiFi / Bluetooth  | BCM94360CS2 802.11ac    |
  | OS Disk (SATA)    | Kingston A400 240GB SSD |
  
- **macOS Version**: 11.3.1 (20E241)    
- **OpenCore Version**: 0.6.8  
+ **macOS Version**: 11.4 (20F71)
+ **OpenCore Version**: 0.7.1 
  **SMBIOS**: iMacPro1,1 (iMac Pro 2017)
  
 ![Bildschirmfoto 2021-04-28 um 11 58 05](https://user-images.githubusercontent.com/59840959/116385488-20085d80-a819-11eb-87e4-b76fdec64cd1.png)
 
 ## Working
-
-## Not working)
+- Sleep & Wake
+- WiFi and Bluetooth
+- Continuity, Handoff & AirDrop
+- iCloud Drive & Photos
+- Xcode Simulator
+## Not working
+- iMessage
+- Math Kernel Library (MKL) -> [Fix](https://gist.github.com/naveenkrdy/26760ac5135deed6d0bb8902f6ceb6bd)
+- Android Emulator (Intel HAXM)
